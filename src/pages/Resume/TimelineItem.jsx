@@ -1,5 +1,3 @@
-import React from 'react'
-import { data } from 'react-router-dom'
 
 const Timelineitem = ({ title, date, description }) => {
   return (

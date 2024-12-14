@@ -2,6 +2,7 @@ import React from "react";
 import { FaBookReader, FaRegBookmark } from "react-icons/fa";
 import Timelineitem from "./Timelineitem";
 import SkillItem from "./skillItem"
+
 const Resume = () => {
   return (
     <section>
